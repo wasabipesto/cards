@@ -25,6 +25,6 @@ The reference games for this project are currently:
 - [ ] Does cutting the deck affect hand randomness?
 - [ ] Does dealing in packets of 2/3 affect hand randomness?
 - [ ] Can you win War by [manipulating your hand](https://arxiv.org/abs/1007.1371)?
-- [ ] How do the phases of Phase 10 scale in difficulty?
-- [ ] What custom phases of Phase 10 would have a better/harder difficulty curve?
-- [ ] Can we re-implement existing [Euchre AI strategies](https://portfolios.cs.earlham.edu/wp-content/uploads/2024/05/Capsone-August-final.pdf) or create better ones?
+- [ ] How do the [melds](https://en.wikipedia.org/wiki/Meld_(cards)) of Phase 10 scale in difficulty?
+- [ ] What custom series of melds would have a better/harder difficulty curve?
+- [ ] Can we re-implement existing [Euchre AI](https://portfolios.cs.earlham.edu/wp-content/uploads/2024/05/Capsone-August-final.pdf) [strategies](https://github.com/matgrioni/euchre-bot) or create better ones?
